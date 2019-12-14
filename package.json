@@ -1,0 +1,11 @@
+{
+  "name": "messager",
+  "version": "1.0.0",
+  "description": "Real time communication using web sockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Hamon",
+  "license": "ISC"
+}
